@@ -1,0 +1,50 @@
+Module 1:
+
+A Zero Trust network security model is based on which security principle?
+
+Security Operating Platform
+ • prevents all known threats, fast
+ • reduces the attack surface
+ • provides full visibility
+ • detects and prevents new unknown threats with automation
+it does not: maintain persistent connectivity for end-users.
+
+
+What is the defintion of Ubiquity?
+ • Content is accessible by multiple applications, every device is connected to the web, and the services can be used anywhere.
+
+
+Malicious software that damages, takes control of, or collects information at an infected endpoint is also known as
+ • malware - malware broadly includes: viruses, worms, trojan horses, ransomware, anti-av, logic bombs, backdoors, rootkits, bootkits, spyware and adware.
+
+
+Applications are designed to circumvent traditional port based firewalls using these techniques:
+ • port hopping
+ • use of non-standard ports
+ • tunneling within commonly used services
+ • hiding within SSL encryption
+they do not, however, command and control via virtual machine services.
+
+
+Most cyberattacks today are NOT perpetuated by internal threat actors, such as malicious employees, engaging in corporate espionage.
+
+Next generation firewall security policies provide persistent security for each of the following:
+ • users
+ • content
+ • applications
+they do not provide security for acceptable use policies.
+
+
+The PCI DSS is mandated and administered by the
+ • PCI Security Standards Council - SSC
+
+
+Perimeter based firewalls identify threats associated with 
+ • north - south traffic
+they do not identify threats with east - west traffic.
+
+
+DevOps in which developers or IT operations teams can provision and manage the infrastructure stack such as VM's, networks, and connectivity for an app in software is:
+ • IaC
+
+
