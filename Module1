@@ -48,3 +48,163 @@ DevOps in which developers or IT operations teams can provision and manage the i
  • IaC
 
 
+A firewall DMZ zone is not typically protected by one firewall placed between the DMZ and the internal network. 
+
+Someone with limited hacking or programming skills that uses malicious malware to attack a computer is not known as a newbie.
+
+The cloud computing service model which a provider's applications run on a cloud infrastruucture and the consumer does not manage or control the infrastructure is known as
+ • SaaS - software as a service
+it is not IaaS, PaaS, or IDaaS
+
+
+The Cyber Attack Lifecycle is not a five-step processs.
+
+The increase in WFA and WFH presents challenges for security services to identify and protect additional threat vectors.
+
+The Security Operating Platform consists of a tightly integrated system of components and services, including a partner ecosystem that delivers consistent security across tthe network, endpoints, and cloud.
+ • true
+
+The Security Operating Platform prevents successful attacks and stops attacks in progress while providing consistent protection to secure the enterprise, the cloud, and the future.
+ • true
+
+The Security Operating platform proactively blocks known threats, which provides baseline defenses against known exploits, malware, malicious URLs, and C2 activity
+ • true
+
+
+The primary issue with a perimeter based network security is that it relies on assumptions that everything on the internal network can be trusted.
+ • true
+
+
+The principle of least privilege in network security does NOT require that only permissions or access rights necessary to perform an authorized task is denied.
+
+
+A vulnerability is NOT a small piece of software code, or a sequence of string commands to cause unintended behavior in a system or software.
+
+Most Botnets are NOT designed to withstand the loss of a command and control C2 server, meaning that the entire Botnet infrastructure does not have to be disabled simultaneously.
+
+
+An effective security strategy is to deploy Perimeter-Based Network defense, where couuntermeasures are defined,
+but you cannot assume everything on the internal network can be trusted.
+
+
+Trust Management typically has rules that describe all of the following:
+ • credentials
+ • policies
+ • actions
+ • principles
+it does not describe Hierarchial Roles
+
+
+An easy way to make your WiFI security stronger and more difficult to be discovered is to
+ • change the Service Set Identifier - SSID
+
+
+An attack that is intended to cause rapid damage to the victim's network and system infrastructure, 
+as well as their business and reputation is known as;
+ • distributed denial of service - DDoS attack
+
+
+Which type of malware allows an attacker to bypass authentication to gain access to a system?
+ • Backdoor
+
+
+Which type of malware is triggered by a specific condition, specific date or a particular user account being disabled?
+ • Logic Bomb
+
+
+Which type of malware targets a computer network by replicating itself to spread rapidly?
+ • Worm
+
+
+Which capability of a Zero-Trust segmentation platform uses a combination of anti-malware, instrusion prevention, and cyberthreat prevention technologies?
+ • Cyberthreat protection
+it is not:
+ • inspection of all traffic
+ • least privilege access control 
+ • secure access
+
+
+Which cybersecurity act defines individual rights with respect to the privacy of their personal information and governs how private sector organizations collect personal information in the course of business?
+ • Canada Personal Information Protection and Electronic Documents Act - PIPEDA
+
+
+Which cybersecurity regulation strengths data protection for European Union residents and export of personal data outside of the EU?
+ • General Data Protection Regulation - GDPR
+
+
+Zero Trust design principles are the following:
+ • inspect and log all traffic
+ • adopt a least privilege strategy and strictly enforce access control
+ • ensure that all resources are accessd securely, regardless of location
+it is not
+ • allow internal users to access network services through remote access
+
+
+Zeru-Trust networks benefit from the following:
+ • improved ability to securely enable transformative IT initiatves
+ • greater efficiency for achieving and maintaing compliance with security and privacy mandates
+ • clearly improve effectiveness in mitigating data loss with visibility and enablement of applications
+it does not benefit from
+ • higher total cost of ownership TCO with a consolidated and fully integrated security operating platform
+
+
+Endpoints are all:
+ • point of sale terminal - POS
+ • desktop
+ • smartphone
+but not a mainframe
+
+
+Important characteristics and capabilities of advanced malware are:
+ • hiding techniques such as poloymorphism and metamorphism
+ • hiding techniques such as obfuscation
+ • multi-functionality
+ • distributed, fault tolerant architecture
+a none important characteristic is matching AV virus signatures
+
+
+The secure the cloud technology that functions as a multimode to minimize range of cloud risks is:
+ • Prisma SaaS
+it is not, prisma access, prisma sase, or prisma cloud
+
+
+Which secure the enterprise network security technology enables centralized control from a single pane of glass?
+ • Panorama
+it is not, subscription services, next gen firewall, or vm series firewall
+
+
+Which secure the future technology serves security teams across the incident lifecycle?
+ • Cortex XSOAR
+it is not cortex XDR, cortex data lake, or autofocus
+
+
+Which security operating platform allows organizations to exert positive control based on apps, users, etc, and visiblity?
+ • reduce the attack surface
+it is not, prevent all known threats fast, provide full visibility, or detect and prevent new unknown threats
+
+
+Which security operating platform supports coordinated security platforms for full scope of attack across various security controls?
+ • prevent all known threats, fast
+
+
+Which technique is used to break the command and control - CnC phase of the cyber kill chain?
+ • vulnerability and patch management
+is it not DNS sinkholing, blocking outbound traffic, or DNS poisoning
+
+
+Which types of attackers are motivated by political or social causes?
+ • hacktivists
+
+
+Which type of Wildfire analysis methods are used to determine real world effects and behaviour?
+ • dynamnic
+it is not machine, bare metal, or static
+
+
+Which Wildfire verdict indicates no security risk but might display obtrusive behavior?
+ • grayware
+is it not benign, phishing, or malware
+
+
+
+
