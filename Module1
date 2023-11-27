@@ -89,6 +89,15 @@ An effective security strategy is to deploy Perimeter-Based Network defense, whe
 but you cannot assume everything on the internal network can be trusted.
 
 
+Which is not a Zero Trust design principle?
+a. Inspect and log all traffic
+b. Adopt a least privilege strategy and strictly enforce access control
+c. Allow internal users to access network services through remote access
+d. Ensure that all resources are accessed securely, regardless of location
+answer: c
+
+
+
 Trust Management typically has rules that describe all of the following:
  • credentials
  • policies
